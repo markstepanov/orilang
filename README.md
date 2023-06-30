@@ -7,7 +7,14 @@ cutstom arena (region) allocators,that preallocates chunks of memory for futher 
 Ease of refacting.
 Fast compile time.
 
-#Road to turing complete
+# Road to turing complete
 - Lexing 
 - -> creation of AST
 - compiling / transpiling to c (?)
+
+# Inspiried By
+
+- Go
+- C
+- Odin 
+- Jai
