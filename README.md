@@ -8,6 +8,6 @@ Ease of refacting.
 Fast compile time.
 
 #Road to turing complete
-   Lexing 
--> creation of AST
-compiling / transpiling to c (?)
+- Lexing 
+- -> creation of AST
+- compiling / transpiling to c (?)
