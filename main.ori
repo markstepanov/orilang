@@ -1,0 +1,7 @@
+fun other_func (int8 a, int8 b) int {
+    return a + b;
+}
+
+fun main() int {
+    print( other_func(2,3) );
+}
